@@ -1,4 +1,4 @@
-# Makefile for StackWhiz Portfolio Backend
+# Makefile for Portfolio Backend
 
 # Variables
 APP_NAME=stackwhiz-portfolio-backend
