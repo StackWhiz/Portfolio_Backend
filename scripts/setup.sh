@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Arbak Portfolio Backend Setup Script
+# StackWhiz Portfolio Backend Setup Script
 # This script sets up the development environment
 
 set -e
 
-echo "🚀 Setting up Arbak Portfolio Backend..."
+echo "🚀 Setting up StackWhiz Portfolio Backend..."
 
 # Colors for output
 RED='\033[0;31m'
@@ -104,7 +104,7 @@ echo -e "${GREEN}✅ Tests passed${NC}"
 
 # Build the application
 echo -e "${BLUE}🔨 Building the application...${NC}"
-go build -o bin/arbak-portfolio-backend main.go
+go build -o bin/stackwhiz-portfolio-backend main.go
 echo -e "${GREEN}✅ Application built successfully${NC}"
 
 echo ""

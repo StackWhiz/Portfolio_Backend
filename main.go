@@ -1,26 +1,26 @@
 package main
 
 import (
-	"arbak-portfolio-backend/internal/api"
-	"arbak-portfolio-backend/internal/config"
-	"arbak-portfolio-backend/internal/database"
-	"arbak-portfolio-backend/internal/middleware"
-	"arbak-portfolio-backend/internal/repository"
-	"arbak-portfolio-backend/internal/service"
 	"log"
 	"os"
+	"stackwhiz-portfolio-backend/internal/api"
+	"stackwhiz-portfolio-backend/internal/config"
+	"stackwhiz-portfolio-backend/internal/database"
+	"stackwhiz-portfolio-backend/internal/middleware"
+	"stackwhiz-portfolio-backend/internal/repository"
+	"stackwhiz-portfolio-backend/internal/service"
 
 	"github.com/gin-gonic/gin"
 )
 
-// @title Arbak Martirosyan Portfolio API
+// @title Portfolio API
 // @version 1.0
-// @description Professional portfolio backend API for Arbak Martirosyan - Senior Backend & Blockchain Engineer
+// @description Professional portfolio backend API for portfolio
 // @termsOfService http://swagger.io/terms/
 
-// @contact.name Arbak Martirosyan
+// @contact.name
 // @contact.url https://github.com/StackWhiz
-// @contact.email movsisyanerik998@gmail.com
+// @contact.email
 
 // @license.name MIT
 // @license.url https://opensource.org/licenses/MIT

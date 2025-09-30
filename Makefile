@@ -1,7 +1,7 @@
-# Makefile for Arbak Portfolio Backend
+# Makefile for StackWhiz Portfolio Backend
 
 # Variables
-APP_NAME=arbak-portfolio-backend
+APP_NAME=stackwhiz-portfolio-backend
 DOCKER_IMAGE=portfolio-api
 DOCKER_TAG=latest
 GO_VERSION=1.21
@@ -17,7 +17,7 @@ NC=\033[0m # No Color
 
 # Default target
 help: ## Show this help message
-	@echo "$(BLUE)Arbak Portfolio Backend - Available Commands$(NC)"
+	@echo "$(BLUE)StackWhiz Portfolio Backend - Available Commands$(NC)"
 	@echo ""
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "$(GREEN)%-20s$(NC) %s\n", $$1, $$2}'
 

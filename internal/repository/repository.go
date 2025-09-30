@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"arbak-portfolio-backend/internal/models"
 	"errors"
+	"stackwhiz-portfolio-backend/internal/models"
 
 	"gorm.io/gorm"
 )

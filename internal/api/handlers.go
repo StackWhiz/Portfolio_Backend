@@ -1,8 +1,8 @@
 package api
 
 import (
-	"arbak-portfolio-backend/internal/service"
 	"net/http"
+	"stackwhiz-portfolio-backend/internal/service"
 	"strconv"
 
 	"github.com/gin-gonic/gin"
@@ -46,7 +46,7 @@ func NewHandlers(
 func (h *Handlers) HealthCheck(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"status":  "healthy",
-		"service": "arbak-portfolio-backend",
+		"service": "stackwhiz-portfolio-backend",
 		"version": "1.0.0",
 	})
 }

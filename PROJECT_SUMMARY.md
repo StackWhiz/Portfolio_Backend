@@ -1,8 +1,8 @@
-# Arbak Martirosyan - Portfolio Backend API
+# StackWhiz  - Portfolio Backend API
 
 ## 🎯 Project Overview
 
-This is a professional, high-performance backend API for Arbak Martirosyan's portfolio website. Built with Go and modern best practices, it showcases expertise in backend development, blockchain engineering, and scalable system architecture.
+This is a professional, high-performance backend API for portfolio website. Built with Go and modern best practices, it showcases expertise in backend development, blockchain engineering, and scalable system architecture.
 
 ## 🏗️ Architecture Highlights
 
@@ -118,7 +118,7 @@ POST /api/v1/auth/login - User login (returns JWT token)
 ```bash
 # Clone and setup
 git clone <repository>
-cd arbak_backend
+cd stackwhiz_backend
 chmod +x scripts/setup.sh
 ./scripts/setup.sh
 
@@ -206,10 +206,8 @@ This portfolio backend demonstrates:
 
 ## 📞 Contact
 
-**Arbak Martirosyan**
-- Email: movsisyanerik998@gmail.com
+**StackWhiz**
 - GitHub: [@StackWhiz](https://github.com/StackWhiz)
-- LinkedIn: [Arbak Martirosyan](https://linkedin.com/in/arbak-martirosyan)
 - Telegram: [@galacticdot](https://t.me/galacticdot)
 
 ---

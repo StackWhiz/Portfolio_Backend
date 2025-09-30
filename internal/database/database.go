@@ -1,10 +1,10 @@
 package database
 
 import (
-	"arbak-portfolio-backend/internal/models"
 	"context"
 	"fmt"
 	"log"
+	"stackwhiz-portfolio-backend/internal/models"
 	"time"
 
 	"github.com/redis/go-redis/v9"

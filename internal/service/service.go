@@ -1,11 +1,11 @@
 package service
 
 import (
-	"arbak-portfolio-backend/internal/models"
-	"arbak-portfolio-backend/internal/repository"
 	"context"
 	"encoding/json"
 	"errors"
+	"stackwhiz-portfolio-backend/internal/models"
+	"stackwhiz-portfolio-backend/internal/repository"
 	"time"
 
 	"github.com/redis/go-redis/v9"

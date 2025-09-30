@@ -1,4 +1,4 @@
-module arbak-portfolio-backend
+module stackwhiz-portfolio-backend
 
 go 1.21
 

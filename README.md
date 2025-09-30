@@ -1,6 +1,6 @@
-# Arbak Martirosyan - Portfolio Backend API
+# Portfolio Backend API
 
-A high-performance, scalable backend API for Arbak Martirosyan's professional portfolio. Built with Go, featuring Redis caching, PostgreSQL database, and comprehensive REST API endpoints.
+A high-performance, scalable backend API for portfolio. Built with Go, featuring Redis caching, PostgreSQL database, and comprehensive REST API endpoints.
 
 ## 🚀 Features
 
@@ -96,7 +96,7 @@ A high-performance, scalable backend API for Arbak Martirosyan's professional po
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd arbak_backend
+   cd stackwhiz_backend
    ```
 
 2. **Install dependencies**
@@ -281,10 +281,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Arbak Martirosyan**
-- Email: movsisyanerik998@gmail.com
+** StackWhize **
 - GitHub: [@StackWhiz](https://github.com/StackWhiz)
-- LinkedIn: [Arbak Martirosyan](https://linkedin.com/in/arbak-martirosyan)
 - Telegram: [@galacticdot](https://t.me/galacticdot)
 
 ## 🙏 Acknowledgments
